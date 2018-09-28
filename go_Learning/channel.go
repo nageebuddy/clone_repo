@@ -1,6 +1,7 @@
 package main
 
 import ("fmt"; "sync")
+// Channel example
 
 var wg sync.WaitGroup
 
